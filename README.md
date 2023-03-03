@@ -1,6 +1,6 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Este es una aplicación con el que comencé JavaScript para guardar "cosas por hacer"
 
 ### Notas:
 Recuerden reconstruir los modulos de Nod
